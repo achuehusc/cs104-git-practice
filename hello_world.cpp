@@ -3,4 +3,4 @@
 using namespace std;
 
 int main() {
-    coud << "FIGHT ON!!!" << endl;
+    cout << "FIGHT ON!!!" << endl;
